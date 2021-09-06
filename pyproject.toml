@@ -5,8 +5,8 @@ description = "A python framework to make beatiful cli applications"
 authors = ["Zayed Malick <zayedmalick13@gmail.com>"]
 readme = "README.md"
 license = "MIT"
-repository = "https://github.com/CalculusInc/mandatum"
-homepage = "https://github.com/CalculusInc/mandatum"
+repository = "https://github.com/CalculusAI/mandatum"
+homepage = "https://github.com/CalculusAI/mandatum"
 
 [tool.poetry.dependencies]
 python = "^3.6"
