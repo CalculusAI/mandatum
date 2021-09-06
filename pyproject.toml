@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mandatum"
-version = "1.0.0"
+version = "1.1.0"
 description = "A python framework to make beatiful cli applications"
 authors = ["Zayed Malick <zayedmalick13@gmail.com>"]
 readme = "README.md"
