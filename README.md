@@ -52,6 +52,9 @@ if __name__ == "__main__":
     warning.warn(message="\nWarning!", bold_text=True)
 ```
 
+## Projects made with mandatum
+- [Make-Read-QRCodes](https://github.com/ZayedMalick/Make-Read-QRCodes)
+
 ## License
 mandatum is licensed under the terms of MIT license
 
