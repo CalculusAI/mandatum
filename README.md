@@ -53,7 +53,7 @@ if __name__ == "__main__":
 ```
 
 ## Projects made with mandatum
-- [Make-Read-QRCodes](https://github.com/ZayedMalick/Make-Read-QRCodes)
+- [CalculusQR-CLI](https://github.com/ZayedMalick/CalculusQR-CLI)
 
 ## License
 mandatum is licensed under the terms of MIT license
