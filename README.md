@@ -16,7 +16,7 @@ pip install poetry
 
 Clone this repo
 ```bash
-git clone https://github.com/CalculusAI/mandatum
+git clone https://github.com/ZayedMalick/mandatum
 ```
 
 Change directory to mandatum and type
