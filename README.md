@@ -1,5 +1,5 @@
 # Mandatum
-Mandatum is a python framework based on rich-python to create beatiful Command-Line-Interface applications in no time. It can create interface for your application in an object oriented approach
+Mandatum is a python framework based on rich-python to create beatiful Command-Line-Interface applications in no time. It can create interface for your application in an object oriented approach. [Visit on PyPi](https://pypi.org/project/mandatum/)
 
 ## Installation
 To install via pip type the following command
