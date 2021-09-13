@@ -30,11 +30,25 @@ Lets create a basic application with mandatum
 ```python
 import mandatum
 
+# display
+display = mandatum.Display()
+
+# print
+display.print(text="Hello World!", style="bold red", justify="center")
+
+```
+
+The above application was a very simple one , now lets make a bit complicated application
+```python
+import mandatum
+
 # Initial setup
 menu = mandatum.Menu(options=["Opt1", "Opt2"], bold_text=True)
 prompt = mandatum.Prompt(color="blue")
 alert = mandatum.Alert(bold_text=True)
 warning = mandatum.Warning()
+display = mandatum.Display()
+
 
 if __name__ == "__main__":
 
@@ -43,7 +57,7 @@ if __name__ == "__main__":
 
     # User name
     name = prompt.input("\nEnter your name : ")
-    print(name)
+    display.print(text=name, style="bold green", justify="left")
 
     # Alerts
     alert.alert("\nAlerting")
