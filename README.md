@@ -73,4 +73,4 @@ if __name__ == "__main__":
 mandatum is licensed under the terms of MIT license
 
 ## Important Note
-Version 2.0.0 is coming soon and will contain major syntax and performance change. 
+I am making mandatum more of a CLI Framework rather than a CLI styling framework so 2.0.0 will have the support of handling arguments etc.
